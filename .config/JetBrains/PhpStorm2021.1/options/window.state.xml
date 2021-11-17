@@ -1,0 +1,53 @@
+<application>
+  <component name="DimensionService">
+    <location key="find.popup.1920.0.1920.1080" x="2545" y="76" />
+    <location key="find.popup.0.0.1920.1080" x="614" y="253" />
+    <size key="find.popup.1920.0.1920.1080" width="737" height="846" />
+    <size key="GridCell.Tab.0.left.1920.0.1920.1080" width="1323" height="308" />
+    <size key="GridCell.Tab.0.center.1920.0.1920.1080" width="1323" height="308" />
+    <size key="GridCell.Tab.0.right.1920.0.1920.1080" width="1323" height="308" />
+    <size key="GridCell.Tab.0.bottom.1920.0.1920.1080" width="1323" height="308" />
+    <size key="find.popup.0.0.1920.1080" width="737" height="827" />
+  </component>
+  <component name="WindowManager">
+    <frame x="0" y="0" width="1920" height="1080" extendedState="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18255208" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Problems View" order="5" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="7" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Flow" order="12" />
+      <window_info anchor="bottom" id="TypeScript" order="13" />
+      <window_info anchor="bottom" id="Services" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="0" weight="0.32994792" />
+      <window_info anchor="right" id="Remote Host" order="1" side_tool="true" weight="0.32994792" />
+    </layout>
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="2535" y="231" width="424" height="486" key="FileChooserDialogImpl" timestamp="1625480732107">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2535" y="231" width="424" height="486" key="FileChooserDialogImpl/1920.0.1920.1080/0.25.1920.1055" timestamp="1625480732107" />
+    <state x="2313" y="813" width="757" height="183" key="ProcessPopupWindow" timestamp="1627670952083">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2313" y="813" width="757" height="183" key="ProcessPopupWindow/1920.0.1920.1080/0.25.1920.1055" timestamp="1627670952083" />
+    <state x="960" y="476" width="800" height="600" key="WELCOME_SCREEN" timestamp="1625480721885">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="960" y="476" width="800" height="600" key="WELCOME_SCREEN/1920.0.1920.1080/0.25.1920.1055" timestamp="1625480721885" />
+  </component>
+</application>

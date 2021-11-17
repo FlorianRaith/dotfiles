@@ -1,0 +1,1 @@
+SELECT `User`.`first_name` AS `User_first_name`, `User`.`last_name` AS `User_last_name`, `User`.`id` AS `User_id` FROM `users` `User`

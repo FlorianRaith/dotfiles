@@ -1,0 +1,1 @@
+select * from release_note_user where release_note_id = 107

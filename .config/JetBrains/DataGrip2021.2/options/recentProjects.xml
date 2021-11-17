@@ -1,0 +1,31 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/DataGripProjects/test">
+          <value>
+            <RecentProjectMetaInfo frameTitle="test – console" projectWorkspaceId="1wgJl33ocgJm7p9XG0Y33LQse4C">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="DB-212.4746.86" />
+              <option name="buildTimestamp" value="1627292405815" />
+              <frame x="2140" y="25" width="1400" height="1000" extendedState="6" />
+              <option name="productionCode" value="DB" />
+              <option name="projectOpenTimestamp" value="1628874445997" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/work/web/social-backend-ts">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1wllxyOF71of1O3c3izE3Bwn3K2">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="DB-212.4746.86" />
+              <option name="buildTimestamp" value="1627292457031" />
+              <option name="productionCode" value="DB" />
+              <option name="projectOpenTimestamp" value="1629041306872" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

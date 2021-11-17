@@ -1,0 +1,22 @@
+  
+ update --no-interaction --no-ansi
+ Loading composer repositories with package information
+ Updating dependencies
+ Your requirements could not be resolved to an installable set of packages.
+ 
+   Problem 1
+     - Root composer.json requires php ^7.3.0 but your php version (8.0.8) does not satisfy that requirement.
+   Problem 2
+     - Root composer.json requires PHP extension ext-calendar * but it is missing from your system. Install or enable PHP's calendar extension.
+   Problem 3
+     - Root composer.json requires PHP extension ext-intl * but it is missing from your system. Install or enable PHP's intl extension.
+   Problem 4
+     - mpdf/mpdf[v8.0.4, ..., v8.0.7] require php ^5.6 || ~7.0.0 || ~7.1.0 || ~7.2.0 || ~7.3.0 || ~7.4.0 -> your php version (8.0.8) does not satisfy that requirement.
+     - mpdf/mpdf[v8.0.8, ..., v8.0.9] require php ^5.6 || ^7.0 -> your php version (8.0.8) does not satisfy that requirement.
+     - mpdf/mpdf[v8.0.10, ..., v8.0.12] require ext-gd * -> it is missing from your system. Install or enable PHP's gd extension.
+     - Root composer.json requires mpdf/mpdf ^8.0.4 -> satisfiable by mpdf/mpdf[v8.0.4, ..., v8.0.12].
+ 
+ To enable extensions, verify that they are enabled in your .ini files:
+     - /etc/php/php.ini
+ You can also run `php --ini` inside terminal to see which files are used by PHP in CLI mode.
+ Failed to update packages for  ./composer.json.

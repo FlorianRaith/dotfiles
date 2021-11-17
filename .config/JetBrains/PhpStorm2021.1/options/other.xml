@@ -1,0 +1,91 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/bin/node" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="12" />
+  </component>
+  <component name="ProjectPluginTrackerManager">
+    <trackers>
+      <map>
+        <entry key="1utN4LfaNx1ykScw63bWUMPc7q0">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="AFTER.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="0" />
+    <property name="AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="true" />
+    <property name="AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_STATUS_BAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="1" />
+    <property name="BEFORE.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FindSplitterProportion" value="0.33014658" />
+    <property name="INSPECTION_FILTER_HISTORY" value="multiple defini&#10;inspectionmu" />
+    <property name="InstalledPluginsSearchHistory" value="xdeb" />
+    <property name="KEYMAP" value="navigate&#10;navigate file&#10;find files" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="LayoutCode.rearrangeEntriesBlade" value="false" />
+    <property name="LayoutCode.rearrangeEntriesPHP" value="false" />
+    <property name="MarketplacePluginsSearchHistory" value="xdeb&#10;x&#10;xdebug&#10;emmet&#10;discord" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="PhpStorm.InitialConfiguration" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SettingsSearchHistory" value="font&#10;inspection" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="appcds.runOnSecondStart" value="PS-211.7628.25-cad1449077491a3e1d030dad4ac4a0675c0d543cee172abe339060a3a43c283a" />
+    <property name="dir.diff.panel.divider.location" value="356" />
+    <property name="dir.diff.space.button.info" value="3" />
+    <property name="evlsprt3.211" value="16" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/work/zewotherm/intranet/resources/sass&#10;/home/florian/work/zewotherm/intranet/resources/js&#10;/home/florian/work/zewotherm/intranet/node_modules&#10;/home/florian/work/zewotherm/intranet/vendor&#10;/home/florian/work/zewotherm/intranet/storage&#10;/home/florian/work/zewotherm/intranet&#10;/home/florian/.config/JetBrains/IntelliJIdea2021.1/settings.zip" />
+    <property name="file.gist.reindex.count" value="34" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="fileTypeDetectors" value="com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector:com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector:com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector" />
+    <property name="got.it.tooltip.cwm.invitation.notification" value="1" />
+    <property name="got.it.tooltip.database.schema.control.got.it" value="1" />
+    <property name="got.it.tooltip.reader.mode.got.it" value="1" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ide.updates.previous.build.number" value="PS-211.7628.25" />
+    <property name="ignore.bundled.jre.version.message" value="true" />
+    <property name="lastSeenTip" value="neue-CodeCompletion.html" />
+    <property name="lastTimeTipsWereShown" value="1625480738153" />
+    <property name="last_opened_file_path" value="$USER_HOME$/.config/JetBrains/IntelliJIdea2021.1/settings.zip" />
+    <property name="log.trace.categories" value="#com.jetbrains.rdserver.requests&#10;#com.jetbrains.rd.ide.document&#10;#com.jetbrains.rdserver.document&#10;#com.jetbrains.rdserver.editors&#10;#com.jetbrains.rdserver.actions" />
+    <property name="seenTips" value="neue-CodeCompletion.html" />
+    <property name="settings.code.style.selected.tab.PHP" value="Wrapping and Braces" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="4.2.2" />
+  </component>
+  <component name="ToolbarSettingsService">
+    <option name="NEW_TOOLBAR_SETTINGS" value="NO_TOOLBAR_NO_NAVBAR" />
+  </component>
+</application>

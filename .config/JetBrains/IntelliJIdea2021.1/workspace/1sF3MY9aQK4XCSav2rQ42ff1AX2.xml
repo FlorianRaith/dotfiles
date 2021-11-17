@@ -1,0 +1,175 @@
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>wer</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>werw</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/pom.xml" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="test" type="58d84e3e:PackageViewProjectNode" />
+              <item name="test" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="test" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/temp/test" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4144000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3337738" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info id="Space Code Reviews" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="CheckStyle" order="8" />
+      <window_info anchor="bottom" id="File Transfer" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Profiler" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="13" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="14" />
+      <window_info anchor="bottom" id="Flow" order="15" />
+      <window_info anchor="bottom" id="Endpoints" order="16" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="17" />
+      <window_info anchor="bottom" id="Services" order="18" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Space Automation" order="1" />
+      <window_info anchor="right" id="Maven" order="2" />
+      <window_info anchor="right" id="Layout Validation" order="3" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state x="2634" y="399" width="481" height="242" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1620455466940">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2634" y="399" width="481" height="242" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1620455466940" />
+    <state x="2661" y="271" width="428" height="498" key="FileChooserDialogImpl" timestamp="1620455463766">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2661" y="271" width="428" height="498" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1620455463766" />
+    <state x="2202" y="227" key="SettingsEditor" timestamp="1620516456026">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2204" y="243" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1620456107992" />
+    <state x="2202" y="227" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1620516456026" />
+    <state x="2906" y="191" width="669" height="807" key="find.popup" timestamp="1620454582475">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2906" y="191" width="669" height="807" key="find.popup/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1620454582475" />
+    <state x="2543" y="251" width="672" height="684" key="search.everywhere.popup" timestamp="1620455892166">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2543" y="251" width="672" height="684" key="search.everywhere.popup/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1620455892166" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

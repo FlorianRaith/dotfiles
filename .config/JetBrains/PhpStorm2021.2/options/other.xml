@@ -1,0 +1,134 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/bin/node">
+      <version-cache version="16.6.2" last-modified="1628706198000" />
+    </local-interpreter>
+  </component>
+  <component name="ProjectPluginTrackerManager">
+    <trackers>
+      <map>
+        <entry key="1utN4LfaNx1ykScw63bWUMPc7q0">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1wceGFhIoNRKtRWbpQRSC5EFHEz">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1wllxyOF71of1O3c3izE3Bwn3K2">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1xmGUEjOvcI4P6wnGW0BPoFeyOj">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="20yuwXovUFBU6gqwLhAlk6N5Yj4">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="AFTER.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="0" />
+    <property name="AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="true" />
+    <property name="AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_STATUS_BAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="1" />
+    <property name="BEFORE.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR" value="true" />
+    <property name="ColorChooser.RecentColors" value="255-68-98-255,,,255-201-135-255" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileColorsForProjectViewEnabled" value="true" />
+    <property name="FileColorsForTabsEnabled" value="true" />
+    <property name="FindSplitterProportion" value="0.33014658" />
+    <property name="INSPECTION_FILTER_HISTORY" value="multiple defini&#10;inspectionmu" />
+    <property name="InstalledPluginsSearchHistory" value="github co&#10;task&#10;javascript&#10;nodejs&#10;xdeb" />
+    <property name="KEYMAP" value="collapse&#10;recurs&#10;recur&#10;navigate&#10;navigate file" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="LayoutCode.rearrangeEntriesBlade" value="false" />
+    <property name="LayoutCode.rearrangeEntriesPHP" value="false" />
+    <property name="MarketplacePluginsSearchHistory" value="github co&#10;github&#10;task&#10;taskm&#10;taskma" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="NextRunPlatformUpdateBuild" value="PS-212.5284.49/2021.2.2" />
+    <property name="NextRunPlatformUpdateVersion" value="2021.2.2" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="PhpStorm.InitialConfiguration" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SettingsSearchHistory" value="spell&#10;nodejs&#10;plug&#10;font&#10;inspection" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="appcds.runOnSecondStart" value="PS-212.5457.49-f8106771b4b43c1edd2ba35c6d13f00537d84d7dacefb7c004c448087cbf80e2" />
+    <property name="dir.diff.panel.divider.location" value="356" />
+    <property name="dir.diff.space.button.info" value="3" />
+    <property name="evlsprt3.211" value="16" />
+    <property name="evlsprt3.212" value="17" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/work/zewotherm/intranet&#10;/home/florian/work/zewotherm/laravel-api-client&#10;/home/florian/work/zewotherm/project-api&#10;/home/florian/work/web/social-backend-ts&#10;/home/florian/work/zewotherm/project-api/node_modules&#10;/home/florian/work/web/social-graphql&#10;/home/florian/work/web/example-app&#10;/home/florian/work/zewotherm/intranet/resources/sass&#10;/home/florian/work/zewotherm/intranet/resources/js&#10;/home/florian/work/zewotherm/intranet/node_modules&#10;/home/florian/work/zewotherm/intranet/vendor&#10;/home/florian/work/zewotherm/intranet/storage&#10;/home/florian/.config/JetBrains/IntelliJIdea2021.1/settings.zip" />
+    <property name="file.gist.reindex.count" value="149" />
+    <property name="fileTypeChangedCounter" value="4" />
+    <property name="fileTypeDetectors" value="com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector:com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector:com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
+    <property name="got.it.tooltip.cwm.invitation.notification" value="1" />
+    <property name="got.it.tooltip.database.schema.control.got.it" value="1" />
+    <property name="got.it.tooltip.reader.mode.got.it" value="1" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ide.updates.previous.build.number" value="PS-212.5457.49" />
+    <property name="ide.updates.whats.new.shown.for" value="212" />
+    <property name="ignore.bundled.jre.version.message" value="true" />
+    <property name="lastSeenTip" value="neue-CodeCompletion.html" />
+    <property name="lastTimeTipsWereShown" value="1625480738153" />
+    <property name="last_opened_file_path" value="$USER_HOME$/work/zewotherm/project-api" />
+    <property name="log.trace.categories" value="#com.jetbrains.rdserver.requests&#10;#com.jetbrains.rd.ide.document&#10;#com.jetbrains.rdserver.document&#10;#com.jetbrains.rdserver.editors&#10;#com.jetbrains.rdserver.actions&#10;#com.jetbrains.rdserver.permissions" />
+    <property name="osmedile.intellij.stringmanip.MyApplicationService.lastAction" value="osmedile.intellij.stringmanip.styles.ToUpperCaseAction" />
+    <property name="registry.to.advanced.settings.migration.build" value="PS-212.5457.49" />
+    <property name="seenTips" value="neue-CodeCompletion.html" />
+    <property name="settings.code.style.selected.tab.PHP" value="Wrapping and Braces" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="4.3.5" />
+  </component>
+  <component name="RecentTaskRepositories">
+    <JIRA shared="false" url="https://zw-systems.atlassian.net">
+      <option name="apiType" value="REST_2_0" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="inCloud" value="true" />
+      <option name="jiraVersion" value="1001.0.0-SNAPSHOT" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="searchQuery" value="assignee = currentUser() and project = DEV and resolution = Unresolved order by updated" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>f.raith@zw-systems.de</username>
+    </JIRA>
+  </component>
+  <component name="ToolbarSettingsService">
+    <option name="NEW_TOOLBAR_SETTINGS" value="NO_TOOLBAR_NO_NAVBAR" />
+  </component>
+</application>

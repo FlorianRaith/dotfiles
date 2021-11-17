@@ -1,4 +1,7 @@
-*
-!*/
+/*
 !.zshrc
+!.p10k
+# !.config/i3
+# !.config/kitty
+# !.config/ranger
 !.gitignore

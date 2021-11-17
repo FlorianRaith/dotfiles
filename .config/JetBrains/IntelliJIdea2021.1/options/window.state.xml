@@ -1,0 +1,44 @@
+<application>
+  <component name="DimensionService">
+    <location key="find.popup.1920.0.1920.1080" x="3006" y="201" />
+    <size key="find.popup.1920.0.1920.1080" width="627" height="566" />
+    <size key="GridCell.Tab.0.left.1920.0.1920.1080" width="1920" height="309" />
+    <size key="GridCell.Tab.0.center.1920.0.1920.1080" width="1920" height="309" />
+    <size key="GridCell.Tab.0.right.1920.0.1920.1080" width="1920" height="309" />
+    <size key="GridCell.Tab.0.bottom.1920.0.1920.1080" width="1920" height="309" />
+    <size key="GridCell.Tab.1.left.1920.0.1920.1080" width="1920" height="381" />
+    <size key="GridCell.Tab.1.center.1920.0.1920.1080" width="1920" height="381" />
+    <size key="GridCell.Tab.1.right.1920.0.1920.1080" width="1920" height="381" />
+    <size key="GridCell.Tab.1.bottom.1920.0.1920.1080" width="1920" height="381" />
+  </component>
+  <component name="WindowManager">
+    <frame x="0" y="0" width="1920" height="1080" extendedState="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+    </layout>
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="3129" y="245" width="428" height="472" key="FileChooserDialogImpl" timestamp="1621376227942">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="3131" y="261" width="428" height="472" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080" timestamp="1620454459596" />
+    <state x="3129" y="245" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1080" timestamp="1621376227942" />
+    <state x="960" y="476" width="800" height="600" key="WELCOME_SCREEN" timestamp="1627894454388">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="960" y="476" width="800" height="600" key="WELCOME_SCREEN/1920.0.1920.1080/0.25.1920.1055" timestamp="1627894454388" />
+    <state x="2743" y="271" width="864" height="362" key="bookmarks" timestamp="1625021108832">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2743" y="271" width="864" height="362" key="bookmarks/1920.0.1920.1080/0.25.1920.1055" timestamp="1625021108832" />
+    <state x="2947" y="150" width="806" height="739" key="new project wizard" timestamp="1620454462042">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2947" y="150" width="806" height="739" key="new project wizard/0.0.1920.1080/1920.0.1920.1080" timestamp="1620454462042" />
+  </component>
+</application>

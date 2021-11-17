@@ -1,0 +1,53 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift ctrl slash" />
+    <keyboard-shortcut first-keystroke="shift ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift ctrl number_sign" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+    <keyboard-shortcut first-keystroke="ctrl number_sign" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="CopyPaths" />
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+    <keyboard-shortcut first-keystroke="ctrl #10000fc" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+    <keyboard-shortcut first-keystroke="ctrl #10000c4" />
+  </action>
+  <action id="EditorDuplicate" />
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
+  </action>
+  <action id="GotoTypeDeclaration">
+    <mouse-shortcut keystroke="shift control button1" />
+  </action>
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+  </action>
+  <action id="QuickImplementations" />
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="alt j" />
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="delombokAny">
+    <keyboard-shortcut first-keystroke="shift ctrl y" />
+  </action>
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleBoldAction">
+    <keyboard-shortcut first-keystroke="shift ctrl b" />
+  </action>
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleCodeSpanAction">
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleItalicAction">
+    <keyboard-shortcut first-keystroke="shift ctrl i" />
+  </action>
+</keymap>

@@ -1,0 +1,61 @@
+<application>
+  <component name="PhpInterpreters">
+    <interpreters>
+      <interpreter id="045a5bd2-df1c-4a07-ac48-a917958e3d61" name="PHP" home="/usr/bin/php73" debugger_id="php.debugger.XDebug" />
+    </interpreters>
+  </component>
+  <component name="PhpInterpretersPhpInfoCache">
+    <phpInfoCache>
+      <interpreter name="PHP">
+        <phpinfo binary_type="PHP" php_cli="/usr/bin/php73" path_separator=":" version="7.3.28">
+          <additional_php_ini>/etc/php73/conf.d/xdebug.ini</additional_php_ini>
+          <configuration_file>/etc/php73/php.ini</configuration_file>
+          <configuration_options>
+            <configuration_option name="include_path" value=".:" />
+          </configuration_options>
+          <debuggers>
+            <debugger_info debugger="xdebug" debugger_version="3.0.4">
+              <debug_extensions />
+            </debugger_info>
+          </debuggers>
+          <loaded_extensions>
+            <extension name="Core" />
+            <extension name="PDO" />
+            <extension name="Phar" />
+            <extension name="Reflection" />
+            <extension name="SPL" />
+            <extension name="SimpleXML" />
+            <extension name="calendar" />
+            <extension name="ctype" />
+            <extension name="curl" />
+            <extension name="date" />
+            <extension name="dom" />
+            <extension name="fileinfo" />
+            <extension name="filter" />
+            <extension name="gd" />
+            <extension name="hash" />
+            <extension name="intl" />
+            <extension name="json" />
+            <extension name="libxml" />
+            <extension name="mbstring" />
+            <extension name="mysqlnd" />
+            <extension name="openssl" />
+            <extension name="pcntl" />
+            <extension name="pcre" />
+            <extension name="posix" />
+            <extension name="readline" />
+            <extension name="session" />
+            <extension name="standard" />
+            <extension name="tokenizer" />
+            <extension name="xdebug" />
+            <extension name="xml" />
+            <extension name="xmlreader" />
+            <extension name="xmlwriter" />
+            <extension name="zip" />
+            <extension name="zlib" />
+          </loaded_extensions>
+        </phpinfo>
+      </interpreter>
+    </phpInfoCache>
+  </component>
+</application>

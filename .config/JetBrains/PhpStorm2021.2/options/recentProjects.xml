@@ -1,0 +1,80 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/work/web/example-app">
+          <value>
+            <RecentProjectMetaInfo frameTitle="example-app – README.md" projectWorkspaceId="1wceGFhIoNRKtRWbpQRSC5EFHEz">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-212.4746.100" />
+              <option name="buildTimestamp" value="1627477072532" />
+              <frame x="1920" y="25" width="1920" height="1055" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1628762206871" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/work/web/social-graphql">
+          <value>
+            <RecentProjectMetaInfo frameTitle="social-graphql – .env.example" projectWorkspaceId="1wceGFhIoNRKtRWbpQRSC5EFHEz">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-212.4746.100" />
+              <option name="buildTimestamp" value="1627477069911" />
+              <frame x="1920" y="25" width="1920" height="1055" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1628763646023" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/work/web/social-backend-ts">
+          <value>
+            <RecentProjectMetaInfo frameTitle="social-backend-ts – MainController.ts" projectWorkspaceId="1wllxyOF71of1O3c3izE3Bwn3K2">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-212.4746.100" />
+              <option name="buildTimestamp" value="1627477036850" />
+              <frame x="1920" y="25" width="1920" height="1055" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1631733766552" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/work/zewotherm/laravel-api-client">
+          <value>
+            <RecentProjectMetaInfo frameTitle="laravel-api-client – Project.php" projectWorkspaceId="20yuwXovUFBU6gqwLhAlk6N5Yj4">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-212.5457.49" />
+              <option name="buildTimestamp" value="1634128768574" />
+              <frame x="1743" y="25" width="1900" height="797" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1637029387337" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/work/zewotherm/project-api">
+          <value>
+            <RecentProjectMetaInfo frameTitle="project-api – ProjectController.js" projectWorkspaceId="1xmGUEjOvcI4P6wnGW0BPoFeyOj">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-212.5457.49" />
+              <option name="buildTimestamp" value="1634128768574" />
+              <frame x="1920" y="25" width="1920" height="1055" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1637030806692" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/work/zewotherm/intranet">
+          <value>
+            <RecentProjectMetaInfo frameTitle="intranet – view.blade.php" opened="true" projectWorkspaceId="1utN4LfaNx1ykScw63bWUMPc7q0">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-212.5457.49" />
+              <option name="buildTimestamp" value="1634128768574" />
+              <frame x="1584" y="25" width="1900" height="797" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1637036532798" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

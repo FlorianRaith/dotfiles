@@ -1,0 +1,2 @@
+com.almightyalpaca.intellij.plugins.discord
+com.kalessil.phpStorm.phpInspectionsEA
