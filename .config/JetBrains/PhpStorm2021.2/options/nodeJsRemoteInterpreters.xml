@@ -1,5 +1,0 @@
-<application>
-  <component name="NodeJSRemoteInterpreters">
-    <interpreter node-remote-interpreter="docker://sail-8.0/app:latest/node" INTERPRETER_PATH="node" HELPERS_PATH=".webstorm_nodejs_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" VERSION="" OUTDATED_ID="" DOCKER_ACCOUNT_NAME="local docker" DOCKER_IMAGE_NAME="sail-8.0/app:latest" DOCKER_REMOTE_PROJECT_PATH="/opt/project" />
-  </component>
-</application>

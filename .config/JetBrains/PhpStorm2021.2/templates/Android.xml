@@ -1,6 +1,0 @@
-<templateSet group="Android">
-  <template name="const" value="private static final int $name$ = $value$;" description="Define android style int constant" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <variable name="name" expression="" defaultValue="NAME" alwaysStopAt="true" />
-    <variable name="value" expression="groovyScript(&quot;new Random().nextInt(1000)&quot;)" defaultValue="0" alwaysStopAt="false" />
-  </template>
-</templateSet>

@@ -1,7 +1,0 @@
-<application>
-  <component name="SshConfigs">
-    <configs>
-      <sshConfig host="dev.zwtm.de" id="15e253e4-1701-4b90-8b99-7387ad6007cf" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="fr" />
-    </configs>
-  </component>
-</application>

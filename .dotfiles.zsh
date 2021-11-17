@@ -11,7 +11,7 @@
 alias dotfiles="/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME"
 alias dotfiles-update="dotfiles add \
                        .config/i3 \
-                       .config/JetBrains \
+                       .config/jetbrains-settings \
                        .config/kitty \
                        .config/mpv \
                        .config/neofetch \
