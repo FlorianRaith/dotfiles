@@ -10,6 +10,7 @@
 
 alias dotfiles="/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME"
 alias dotfiles-update="dotfiles add \
+                       .gitignore \
                        .config/i3 \
                        .config/jetbrains-settings \
                        .config/kitty \
