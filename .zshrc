@@ -75,6 +75,8 @@ alias ssh="kitty +kitten ssh"
 alias ls='EXA_ICON_SPACING=2 exa --icons --group-directories-first'
 alias ll='ls -l'
 alias la='ll -a'
+alias llm='ll --sort modified'
+alias lm='l --sort modified'
 alias vim=nvim
 alias mv='mv -i'
 alias rm='rm -i'
