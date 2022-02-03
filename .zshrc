@@ -111,6 +111,20 @@ function clip () {
     fi
 }
 
+# paste the current git branch and bind it to CTRL+B
+if [[ $- == *i* ]]; then
+    # CTRL-B - Paste the current branch
+    git-currentbranch-paste() {
+        LBUFFER="$LBUFFER$(git rev-parse --abbrev-ref HEAD)"
+        local ret=$?
+        zle redisplay
+        typeset -f zle-line-init >/dev/null && zle zle-line-init
+        return $ret
+    }
+    zle     -N   git-currentbranch-paste
+    bindkey '^B' git-currentbranch-paste
+fi
+
 
 
 #             _   _                     _          __  __      
