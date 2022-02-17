@@ -81,6 +81,7 @@ alias vim=nvim
 alias mv='mv -i'
 alias rm='rm -i'
 alias gs='git status'
+alias pferd='$HOME/.local/bin/pferd'
 
 source $HOME/.dotfiles.zsh
 
