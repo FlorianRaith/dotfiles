@@ -122,6 +122,8 @@ function clip () {
 #                                                              
 #                                                              
 
+zstyle ':completion:*' file-sort date
+
 # not perfect :(
 # export FZF_CTRL_T_COMMAND="find . -not -path '*/\.*' -a -not \( \( -name node_modules -o -name vendor -o -name pkg \) -prune \)"
 
