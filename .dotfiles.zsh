@@ -10,7 +10,7 @@
 
 alias dotfiles="/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME"
 alias dotfiles-update="dotfiles add \
-                       .gitignore \
+                       .config/gtk-3.0 \
                        .config/i3 \
                        .config/jetbrains-settings \
                        .config/kitty \
@@ -23,6 +23,7 @@ alias dotfiles-update="dotfiles add \
                        .config/rofi \
                        .config/zathura \
                        .dotfiles.zsh \
+                       .gitignore \
                        .p10k.zsh \
                        .zshrc \
                       && dotfiles commit -v"
