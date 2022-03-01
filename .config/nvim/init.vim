@@ -77,6 +77,8 @@ noremap <silent> $ g$
 
 nmap <Leader><space> :nohlsearch<cr>
 
+xnoremap <Leader>s :! awk '{ print length(), $0 \| "sort -n \| cut -d\\  -f2-" }'
+
 "                                                          _     
 "                                                         | |    
 "             ___ ___  _ __ ___  _ __ ___   __ _ _ __   __| |___ 
