@@ -10,20 +10,21 @@
 
 alias dotfiles="/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME"
 alias dotfiles-update="dotfiles add \
-                       .config/gtk-3.0 \
-                       .config/i3 \
-                       .config/jetbrains-settings \
-                       .config/kitty \
-                       .config/mpv \
-                       .config/neofetch \
-                       .config/nvim \
-                       .config/picom \
-                       .config/polybar \
-                       .config/ranger \
-                       .config/rofi \
-                       .config/zathura \
-                       .dotfiles.zsh \
-                       .gitignore \
-                       .p10k.zsh \
                        .zshrc \
+                       .p10k.zsh \
+                       .config/i3 \
+                       .gitignore \
+                       .vimidearc \
+                       .config/mpv \
+                       .config/nvim \
+                       .config/rofi \
+                       .config/kitty \
+                       .config/picom \
+                       .dotfiles.zsh \
+                       .config/ranger \
+                       .config/gtk-3.0 \
+                       .config/polybar \
+                       .config/zathura \
+                       .config/neofetch \
+                       .config/jetbrains-settings \
                       && dotfiles commit -v"

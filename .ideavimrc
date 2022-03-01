@@ -1,0 +1,16 @@
+set relativenumber number
+set number
+set clipboard=unnamedplus
+set iskeyword+=-
+set hls is
+let mapleader = ','
+set so=7 
+
+set hlsearch
+set incsearch
+
+nmap <Leader><space> :nohlsearch<cr>
+xnoremap <Leader>s :! awk '{ print length(), $0 \| "sort -n \| cut -d\\\\  -f2-" }'
+
+Plug 'vim-scripts/argtextobj.vim'
+Plug 'tpope/vim-surround'
